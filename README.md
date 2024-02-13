@@ -1,2 +1,2 @@
 # Phil-Architecte
-Site web static pour une thèse en architecture 
+Site web statique pour une thèse en architecture 

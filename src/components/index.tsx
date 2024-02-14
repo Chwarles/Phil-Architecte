@@ -10,9 +10,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <h2 class="ImageCenter" id="imageCenter" />
     <h2 class="Map" id="map" />
   </div>
-  
 `
-
 imageLeft(document.querySelector<HTMLButtonElement>('#imageLeft')!)
 imageCenter(document.querySelector<HTMLButtonElement>('#imageCenter')!)
 Map(document.querySelector<HTMLButtonElement>('#map')!)

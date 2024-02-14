@@ -5,7 +5,7 @@ export function imageLeft(element: HTMLButtonElement) {
 
   element.innerHTML = `<p>: à st-michel.</p><br>
                       <img src="${BASE_URL}Areas/image${rndInt}.jpg" width=400px />
-                      <img class="Point" src="${BASE_URL}PointsSurLaCarte/point${rndInt}.png" width=400px />
+                      <img class="Point" src="${BASE_URL}PointsSurLaCarte/point${rndInt}.png" width=500px />
                       <p class="bottom"> ${rndInt}/12<p>`
 }
 
